@@ -12,6 +12,12 @@ Use of these tools is unrestricted to anyone. However, no liability is assumed o
 
 Collaboration and suggestions are always welcome. =)
 
+For details on how to use Meep-C++, please refer to the Meep documentation:
+
+http://ab-initio.mit.edu/wiki/index.php/Meep_C-plus-plus_Tutorial
+
+http://ab-initio.mit.edu/wiki/index.php/Meep_C-plus-plus_Reference
+
 [
 Document Meta-Data
 \ Date Created: September 23, 2015
